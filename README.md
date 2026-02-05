@@ -26,7 +26,7 @@ This project analyzes the Superstore sales dataset using Python to understand sa
 
 ## 📁 Dataset
 - Dataset Name: Superstore Sales Dataset  
-- Source: Kaggle  
+- Source: Kaggle 
 - Note: The raw dataset is not included in this repository due to GitHub file size limitations.
 
 ---
